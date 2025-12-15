@@ -16,3 +16,8 @@ B Tree
 ```
 gcc main_btree.c index_btree.c Pool.c
 ```
+
+table with inner ID
+```
+gcc main_table_innerid.c index_table_innerid.c Pool.c
+```
